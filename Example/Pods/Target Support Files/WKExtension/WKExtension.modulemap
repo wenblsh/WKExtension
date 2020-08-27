@@ -1,0 +1,6 @@
+framework module WKExtension {
+  umbrella header "WKExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

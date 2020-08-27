@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WKExtension_Example' do
+  pod 'WKExtension', :path => '../'
+
+  target 'WKExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

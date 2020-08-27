@@ -1,0 +1,23 @@
+PODS:
+  - SVProgressHUD (2.2.5)
+  - WKExtension (0.1.0):
+    - SVProgressHUD
+
+DEPENDENCIES:
+  - WKExtension (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  WKExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  WKExtension: cc19318f6bd0888d241f234f3b93e067d6cb9e98
+
+PODFILE CHECKSUM: 23ca283572cfb59afb0873dd67aa3b871a4d3808
+
+COCOAPODS: 1.9.3
