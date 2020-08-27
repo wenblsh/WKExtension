@@ -1,22 +1,15 @@
 PODS:
-  - SVProgressHUD (2.2.5)
-  - WKExtension (0.1.0):
-    - SVProgressHUD
+  - WKExtension (0.1.0)
 
 DEPENDENCIES:
   - WKExtension (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - SVProgressHUD
 
 EXTERNAL SOURCES:
   WKExtension:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
-  WKExtension: cc19318f6bd0888d241f234f3b93e067d6cb9e98
+  WKExtension: 5892dae889af2c232c444d7ca16491e73648c9c9
 
 PODFILE CHECKSUM: 23ca283572cfb59afb0873dd67aa3b871a4d3808
 

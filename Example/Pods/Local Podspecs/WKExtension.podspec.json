@@ -18,15 +18,12 @@
   "platforms": {
     "ios": "8.0"
   },
+  "swift_versions": "4.0",
   "source_files": "WKExtension/Classes/**/*",
   "resource_bundles": {
     "WKExtension": [
       "WKExtension/Assets/*.xcassets"
     ]
   },
-  "dependencies": {
-    "SVProgressHUD": [
-
-    ]
-  }
+  "swift_version": "4.0"
 }
